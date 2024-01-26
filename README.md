@@ -11,6 +11,8 @@ High Quality Photometric Reconstruction using a Depth Camera
   url = {http://www.ee.iisc.ernet.in/labs/cvl/papers/photometric_CVPR2014_paper.pdf}
 }
 
+https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Haque_High_Quality_Photometric_2014_CVPR_paper.pdf
+
 http://giteit.udp.cl/vision-2015/prototipo-proyecyo-final.git, profe en el git se encuentra toda la informacion por que nuestro .zip era de mayor tamaño que el permitido.
 
 Para poder realizar reconstruccion 3D con nuestro codigo primero es necesario capturar las imagenes con la Kinect, para esto hay que posicionarse en la carpeta de codigo he ir a la carpeta sacaFotos (/codigo/sacaFotos), aqui se encuentran los codigos necesarios para sacar las fotos con la kinect a traves del sensor IR, este codigo se desarrollo con openFramework (es necesario tener una fuente IR que no sea la de la Kinect por que esta agrega ruido).
